@@ -1,4 +1,4 @@
-# defiProtocol contest details
+# Kuiper contest details
 - $22,500 USDC main award pot
 - $2,500 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
